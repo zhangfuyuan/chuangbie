@@ -1,0 +1,34 @@
+{
+  "resultcode": "200",
+  "reason": "Success",
+  "result": {
+    "data": [
+      {
+        "title": "UNIX环境高级编程",
+        "catalog": "计算机 ",
+        "tags": "linux shell unix 史蒂文斯 好书排行榜 好书推荐排行榜 经典好书推荐 网络编程 计算机 ",
+        "sub1": "Linux编程经典书籍推荐",
+        "sub2": "《UNIX环境高级编程》\n这本书被誉为unix编程圣经，作者史蒂文斯是世界权威技术作者。几乎所有的Linux和Unix从业人员人手一本，任何希望对Unix/Linux系统有进一步的了解的人不能不读这本书。对老手而言，本书内容权威，可以作为Linux和Unix编程的工具书，对于新手来说，也是一本很好的入门书籍。英文基础好的建议看英文原版，中文版翻译的也还好，但是有些地方可能没有直接看英文版那么好理解。\n《UNIX环境高级编程》电子版下载地址：http://ishare.iask.sina.com.cn/f/7507716.html\n《UNIX环境高级编程》纸质版",
+        "img": "http://apis.juhe.cn/goodbook/img/68e52b5b4d6715947c73056c2c2e67a8.jpg",
+        "reading": "1156人阅读",
+        "online": "",
+        "bytime": "2012年9月22日"
+      },
+      {
+        "title": "Linux编程经典书籍推荐",
+        "catalog": "计算机 ",
+        "tags": "linux shell unix 史蒂文斯 好书排行榜 好书推荐排行榜 经典好书推荐 网络编程 计算机 ",
+        "sub1": "Linux编程经典书籍推荐",
+        "sub2": "《UNIX环境高级编程》\n这本书被誉为unix编程圣经，作者史蒂文斯是世界权威技术作者。几乎所有的Linux和Unix从业人员人手一本，任何希望对Unix/Linux系统有进一步的了解的人不能不读这本书。对老手而言，本书内容权威，可以作为Linux和Unix编程的工具书，对于新手来说，也是一本很好的入门书籍。英文基础好的建议看英文原版，中文版翻译的也还好，但是有些地方可能没有直接看英文版那么好理解。\n《UNIX环境高级编程》电子版下载地址：http://ishare.iask.sina.com.cn/f/7507716.html\n《UNIX环境高级编程》纸质版购买地址",
+        "img": "http://apis.juhe.cn/goodbook/",
+        "reading": "4885人阅读",
+        "online": "",
+        "bytime": "2012年09月22日"
+      }
+    ],
+    "totalNum": "2",
+    "pn": 0,
+    "rn": "6"
+  },
+  "error_code": 0
+}
